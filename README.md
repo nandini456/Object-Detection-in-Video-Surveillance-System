@@ -5,7 +5,10 @@ In addition to the core detection functionality, a graphical user interface (GUI
 
 The system also incorporates comprehensive evaluation metrics to assess the performance of the object detection model. Upon detection and classification, the system generates three informative bar plot graphs:
 
-#Accuracy: Illustrating the accuracy of the object detection model in identifying and classifying objects within the video stream.
-#Mean Squared Error (MSE): Quantifying the disparity between the predicted bounding boxes and ground truth annotations, providing insights into the model's precision.
-#Peak Signal-to-Noise Ratio (PSNR): Evaluating the quality of the detected objects by comparing them to reference frames, aiding in the assessment of image fidelity.
+Accuracy: Illustrating the accuracy of the object detection model in identifying and classifying objects within the video stream.
+
+Mean Squared Error (MSE): Quantifying the disparity between the predicted bounding boxes and ground truth annotations, providing insights into the model's precision.
+
+Peak Signal-to-Noise Ratio (PSNR): Evaluating the quality of the detected objects by comparing them to reference frames, aiding in the assessment of image fidelity.
+
 This repository serves as a comprehensive solution for real-time object detection in video surveillance scenarios, offering a blend of state-of-the-art deep learning techniques, intuitive user interfaces, and robust performance evaluation metrics. Whether for research, development, or practical applications, this project provides a powerful tool for enhancing video surveillance systems with advanced object detection capabilities.
